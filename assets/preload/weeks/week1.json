@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Calamitous Timelines", "pshaggy", [22, 22, 61]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	
+	"difficulties": "Normal",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
